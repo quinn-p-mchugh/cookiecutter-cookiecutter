@@ -1,6 +1,6 @@
 {
     "template_title": "My New Project",
-    "template_slug": "{{ cookiecutter.project_title.replace(' ', '-').lower() }}",
+    "template_slug": "{{ cookiecutter.template_title.replace(' ', '-').lower() }}",
     "description": "",
     "author_name": "First Last",
     "email": "example@domain.com",
