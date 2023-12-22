@@ -1,0 +1,11 @@
+{
+    "template_title": "My New Project",
+    "template_slug": "{{ cookiecutter.project_title.replace(' ', '-').lower() }}",
+    "description": "",
+    "author_name": "First Last",
+    "email": "example@domain.com",
+    "github_user": "your-github-username",
+    "version": "0.1.0",
+    "copyright_year": "{% now 'utc', '%Y' %}",
+    "license": ["MIT", "Apache-2.0", "GPL-3.0-only", "No License"],
+}
