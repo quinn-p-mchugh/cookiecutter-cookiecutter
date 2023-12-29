@@ -9,6 +9,6 @@
     "copyright_year": "{% now 'utc', '%Y' %}",
     "license": ["GPL-3.0", "Apache-2.0", "MIT", "None"],
     "_copy_without_render": [
-        "{{ cookiecutter.project_name }}/*"
+        "{{ cookiecutter.template_slug }}/*"
     ]
 }
