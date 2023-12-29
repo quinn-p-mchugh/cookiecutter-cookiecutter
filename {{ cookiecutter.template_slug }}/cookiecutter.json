@@ -1,6 +1,6 @@
 {
     "project_title": "My New Project",
-    "project_name": "{{ cookiecutter.project_title.replace(' ', '-').lower() }}",
+    "project_slug": "{{ cookiecutter.project_title.replace(' ', '-').lower() }}",
     "package_name": "{{ cookiecutter.project_name.replace('-', '_') }}",
     "description": "",
     "author_name": "First Last",
