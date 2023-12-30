@@ -8,5 +8,5 @@
     "github_user": "your-github-username",
     "version": "0.1.0",
     "copyright_year": "{% now 'utc', '%Y' %}",
-    "license": ["GPL-3.0", "Apache-2.0", "MIT", "None"],
+    "license": ["GPL-3.0", "Apache-2.0", "MIT", "None"]
 }
