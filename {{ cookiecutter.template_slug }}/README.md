@@ -50,7 +50,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 To see what's next for this project, check out the roadmap:
 
-- [Open issues](https://github.com/{{ cookiecutter.github_user }}/{{ cookiecutter.project_slug }}/issues?q=is%3Aopen+is%3Aissue+sort%3Areactions-%2B1-desc)
+- [Open issues](https://github.com/{{ cookiecutter.github_user }}/{{ cookiecutter.template_slug }}/issues?q=is%3Aopen+is%3Aissue+sort%3Areactions-%2B1-desc)
 - [Prioritized backlog](https://github.com/marcusolsson/obsidian-projects/issues?q=is%3Aopen+is%3Aissue+label%3Apriority%2Fhigh+sort%3Areactions-%2B1-desc+): Issues we'll be working on next.
 - [Backlog](https://github.com/marcusolsson/obsidian-projects/issues?q=is%3Aopen+is%3Aissue+label%3Alifecycle%2Fbacklog+sort%3Areactions-%2B1-desc): Issues anyone can start working on (please let us know before you do@).
 - [Ideas](https://github.com/marcusolsson/obsidian-projects/issues?q=is%3Aopen+is%3Aissue+label%3Alifecycle%2Fidea+sort%3Areactions-%2B1-desc): Promising issues that haven't made it to the backlog yet.
