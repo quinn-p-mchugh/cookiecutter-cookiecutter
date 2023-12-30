@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/{{ cookiecutter.github_user }}/{{ cookiecutter.project_slug }}">
-    <img src="{% raw %}{{ cookiecutter.project_name }}{% endraw %}/assets/logo.svg" alt="Logo" width="125" height="125">
+    <img src="{{ cookiecutter.project_name }}/assets/logo.svg" alt="Logo" width="125" height="125">
   </a>
 </h1>
 
