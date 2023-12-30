@@ -1,10 +1,10 @@
 <h1 align="center">
-  <a href="https://github.com/{{ cookiecutter.github_user }}/{{ cookiecutter.project_slug }}">
-    <img src="{{ cookiecutter.project_name }}/assets/logo.svg" alt="Logo" width="125" height="125">
+  <a href="https://github.com/{{ cookiecutter.github_user }}/{{ cookiecutter.template_slug }}">
+    <img src="{{ cookiecutter.template_slug }}/assets/logo.svg" alt="Logo" width="125" height="125">
   </a>
 </h1>
 
-# {{ cookiecutter.project_title }}
+# {{ cookiecutter.template_title }}
 
 {{ cookiecutter.description }}
 
