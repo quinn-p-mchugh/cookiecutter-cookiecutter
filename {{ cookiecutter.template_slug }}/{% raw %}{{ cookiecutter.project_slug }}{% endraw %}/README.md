@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-# {{ cookiecutter.project_title }}
+# {{ cookiecutter.project_name }}
 
 {{ cookiecutter.description }}
 
